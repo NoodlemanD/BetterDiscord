@@ -1,5 +1,6 @@
 @import url("https://celestialreaver.github.io/BetterDiscord/themes/base/fonts/aveden/aveden.woff2");
 @import url("https://celestialreaver.github.io/BetterDiscord/themes/base/fonts/firacode/FiraCode-Regular.woff2");
+@import url('https://fonts.cdnfonts.com/css/whitney-2');
 
 :root {
   --font-primary: var(--customFont), "Whitney";
